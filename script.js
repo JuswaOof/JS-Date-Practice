@@ -5,4 +5,4 @@ console.log(currentDate.getTime());
 console.log(dateCountdown.getTime());
 
 document.getElementById("date").innerHTML = currentDate;
-document.getElementById("countDown").innerHTML = dateCountdown;
+document.getElementById("countdown").innerHTML = dateCountdown;
